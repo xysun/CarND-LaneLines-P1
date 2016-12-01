@@ -1,0 +1,6 @@
+- and then run a linear regression over each set of points
+- opencv: fitline
+
+https://carnd-udacity.atlassian.net/wiki/display/CAR/questions/9177420/averaging-hough-lines-using-meansextrapolation
+https://carnd-udacity.atlassian.net/wiki/display/CAR/questions/6524546/p1-help-getting-started-with-optional-challenge-
+https://carnd-udacity.atlassian.net/wiki/questions/4784445/are-people-separating-the-line-segments-by-their-slopes-and-then-averaging-them
